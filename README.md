@@ -1,2 +1,2 @@
-# liza
-enjoy session | By Tcroneb Hackx
+# Xeon-PairCode
+Pair code generator for whatsapp bots
